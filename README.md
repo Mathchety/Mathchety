@@ -2,7 +2,7 @@
 # :coffee: Java lover
 ---
 - :gem: I’m currently learning **Minecraft Mod Development**
-- :video_game: Developing my own **Minecraft Mod**
+- :video_game: Developing my own simple **Minecraft Mod**
 ---
 ### 📊 GitHub Statistics
 
