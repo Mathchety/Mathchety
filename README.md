@@ -1,10 +1,12 @@
-# Cursando Análise e Desenvolvimento de Sistemas na **Unipar**
+## My name is Matheus Marchetti
+# I love JAVA
 ---
-### 📊 Estatísticas GitHub
+I develop **Minecraft Mods** in my free time
+---
+### 📊 GitHub Statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathchety&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mathchety&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Mathchety/Mathchety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
