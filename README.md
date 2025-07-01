@@ -1,7 +1,8 @@
 ## My name is Matheus Marchetti
 # :coffee: Java lover
 ---
-- I develop **Minecraft Mods** in my free time
+- :gem: I’m currently learning **Minecraft Mod Development**
+- Also developing my own **Minecraft Mod**
 ---
 ### 📊 GitHub Statistics
 
