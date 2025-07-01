@@ -3,6 +3,7 @@
 ---
 - :gem: I’m currently learning **Minecraft Mod Development**
 - :video_game: Developing my own simple **Minecraft Mod**
+  - 🌱 I’m currently looking for learning more java 
 ---
 ### 📊 GitHub Statistics
 
