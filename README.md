@@ -1,5 +1,5 @@
 ## My name is Matheus Marchetti
- I love JAVA
+:coffee: Java lover
 ---
 I develop **Minecraft Mods** in my free time
 ---
